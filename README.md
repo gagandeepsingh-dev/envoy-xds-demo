@@ -1,5 +1,7 @@
 ## Setup
 
+corresponding blog post https://www.infracloud.io/blogs/manage-envoy-proxy-go-control-plane/
+
 ### Start Control Plane
 
 do just this:
